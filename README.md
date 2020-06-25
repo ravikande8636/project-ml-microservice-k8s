@@ -1,4 +1,3 @@
-[![CircleCI](https://circleci.com/gh/ravikande8636/project-ml-microservice-k8s.svg?style=svg)](https://circleci.com/gh/ravikande8636/project-ml-microservice-k8s)
 
 ## Project Overview
 
